@@ -2,9 +2,12 @@ body {
     width:100%;
     height:100vh;
     display: flex; align-items:center; justify-content:center;
-    background-color: #c2f2;
+    background-color: black;
 }
 #portfolio{
     color: white;
     font-family:Arial, Helvetica, sans-serif;
+}
+#portfolio {
+    text-align:center;
 }
